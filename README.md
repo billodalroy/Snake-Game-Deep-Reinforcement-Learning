@@ -30,19 +30,27 @@ Simply open the notebook and run all cells to train each agent from scratch and 
 
 ## Results
 
+<img width="846" alt="Test-Results" src="https://github.com/billodalroy/snake-game/assets/46433931/cbb8ef9e-d10d-4457-bdb0-0c6e8819d8df">
+
 The agents were trained for over 100,000 episodes. DDQN achieved the best performance, reaching **10 apples** per episode during evaluation. DQN reached **7 apples**, while A2C only managed **1 apple** per episode.
 
 **DQN:**
+
+<img width="846" alt="DQN" src="https://github.com/billodalroy/snake-game/assets/46433931/8ed26037-0cf4-4bec-92fc-e4e5fd62536c">
 
 Training result: 12 apples per episode,
 Test result: 10 apples per episode
 
 **DDQN:**
 
+<img width="846" alt="ddqn" src="https://github.com/billodalroy/snake-game/assets/46433931/bcb54350-d0b5-481a-89bd-1b1b8849a5c5">
+
 Training result: 10 apples per episode,
 Test result: 7 apples per episode
 
 **A2C:**
+
+<img width="846" alt="a2c" src="https://github.com/billodalroy/snake-game/assets/46433931/e26393f7-7458-4e83-8533-23d98212cc9f">
 
 Training result: 1 apple per episode,
 Test result: 1 apple per episode
