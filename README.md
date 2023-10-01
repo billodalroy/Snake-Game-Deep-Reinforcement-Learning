@@ -5,6 +5,8 @@ This repository contains deep reinforcement learning agents implemented in PyTor
 
 ## Game Animation
 
+![Gameplay Animation](https://github.com/billodalroy/snake-game/assets/46433931/773aba24-9d17-4643-a119-b260b01ab34d)
+
 The animation above shows the Snake game environment. The snake needs to collect apples to increase its length while avoiding the walls and its own body.
 
 ## Algorithms
