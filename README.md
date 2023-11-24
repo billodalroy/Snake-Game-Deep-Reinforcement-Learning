@@ -13,8 +13,8 @@ The animation above shows the Snake game environment. The snake needs to collect
 
 Three different deep RL algorithms were implemented and compared:
 
-    DQN: Deep Q-Network
-    DDQN: Double Deep Q-Network
+    DQN: Deep Q-Network (Q-Learning)
+    DDQN: Double Deep Q-Network (Q-Learning)
     A2C: Advantage Actor-Critic
 
 DQN and DDQN use deep neural networks to approximate the Q-value function. A2C uses separate actor and critic networks.
